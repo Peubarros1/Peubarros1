@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Pedro+Siqueira+de+Barros;Computer+Engineering+Student;Data+Science+Enthusiast)](https://git.io/typing-svg)
 # 👋 Olá, eu sou Pedro Siqueira de Barros
 
 🎓 Estudante de Engenharia da Computação - UFPE  
