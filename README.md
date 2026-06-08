@@ -9,7 +9,7 @@
 # 🧠 Sobre mim
 
 - 🎓 Engenharia da Computação - UFPE (2023 - 2028)
-- 💻 Experiência com C++, Python , Haskel , React , Javascript  e SQL
+- 💻 Experiência com C++, Python , TypeScript , React , Javascript  e SQL
 - 📊 Interesse em Data Science e desenvolvimento de software
 - 🤖 Projetos com simulação e robótica
 
